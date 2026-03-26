@@ -19242,4 +19242,11 @@
     "description": "A dynamic control center for your vault. Unify hubs, notes, tasks, periodic notes, and web resources with intuitive buttons. Replace new tab for instant access.",
     "repo": "especialkim/obsidian-synaptic-view"
   }
+  {
+  "id": "vixnote-sync",
+  "name": "WeChat Obsidian Sync with VixNote",
+  "author": "唯思笔记",
+  "description": "Sync messages from the VixNote WeChat official account into your Obsidian Vault. Learn more at vixnote.com.",
+  "repo": "qinzhengdong/vixnote"
+  }
 ]
